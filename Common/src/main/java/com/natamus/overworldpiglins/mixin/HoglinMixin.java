@@ -1,4 +1,4 @@
-package com.natamus.overworldpiglins.forge.mixin;
+package com.natamus.overworldpiglins.mixin;
 
 import net.minecraft.world.effect.MobEffects;
 import net.minecraft.world.entity.monster.hoglin.Hoglin;

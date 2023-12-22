@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "overworldpiglins",
-  "version": "1.3",
+  "version": "1.4",
 
   "name": "Overworld Piglins",
   "description": "Makes Piglins and Hoglins be able to survive in the overworld, unless they've got the Weakness effect.",
@@ -18,7 +18,7 @@
   "environment": "*",
   "entrypoints": { "main": [ "com.natamus.overworldpiglins.ModFabric" ] },
   "mixins": [
-    "overworldpiglins_fabric.mixins.json"
+    "overworldpiglins.mixins.json"
   ],
 
   "depends": {
@@ -26,7 +26,7 @@
     "fabric": "*",
     "minecraft": ">=1.19",
     "java": ">=17",
-    "collective": ">=7.21"
+    "collective": ">=7.26"
   },
 
   "custom": {
