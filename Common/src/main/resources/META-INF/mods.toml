@@ -6,7 +6,7 @@ logoFile="icon.png"
 
 [[mods]]
 modId="overworldpiglins"
-version="1.3"
+version="1.4"
 displayName="Overworld Piglins"
 displayURL="https://serilum.com/mod/overworld-piglins"
 authors="Rick South"
@@ -23,7 +23,7 @@ If you would like to contribute too, check out https://ricksouth.com/donate. App
     modId="collective"
     type="required"
     mandatory=true
-    versionRange="[7.21,)"
+    versionRange="[7.26,)"
     ordering="NONE"
     side="BOTH"
 
@@ -36,4 +36,4 @@ If you would like to contribute too, check out https://ricksouth.com/donate. App
     side="BOTH"
 
 [[mixins]]
-    config = "overworldpiglins_neoforge.mixins.json"
+    config = "overworldpiglins.mixins.json"

@@ -1,4 +1,4 @@
-package com.natamus.overworldpiglins.fabric.mixin;
+package com.natamus.overworldpiglins.mixin;
 
 import net.minecraft.world.damagesource.DamageSource;
 import net.minecraft.world.damagesource.DamageTypes;
