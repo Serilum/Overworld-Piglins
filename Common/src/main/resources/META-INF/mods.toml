@@ -1,0 +1,34 @@
+modLoader="javafml"
+loaderVersion="*"
+license="All rights reserved"
+issueTrackerURL="https://github.com/Serilum/.issue-tracker/labels/Mod:%20Overworld%20Piglins"
+logoFile="icon.png"
+
+[[mods]]
+modId="overworldpiglins"
+version="1.4"
+displayName="Overworld Piglins"
+displayURL="https://serilum.com/mod/overworld-piglins"
+authors="Rick South"
+description='''Makes Piglins and Hoglins be able to survive in the overworld, unless they've got the Weakness effect.
+'''
+credits='''Thank you very much to my Membership sponsors for supporting the development of this mod:  
+
+Alister, Andrean Olgo, aternosorg, BirdieMiner, Cherriesaurus, Jeremy Langford, Michael W. S., Rare Students, Shana Gitnick, Tyler Behl   
+
+If you would like to contribute too, check out https://serilum.com/donate. Appreciate it! <3   
+'''
+
+[[dependencies.overworldpiglins]]
+    modId="collective"
+    mandatory=true
+    versionRange="[7.61,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.overworldpiglins]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.21]"
+    ordering="NONE"
+    side="BOTH"
