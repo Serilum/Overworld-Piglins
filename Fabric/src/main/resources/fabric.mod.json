@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "overworldpiglins",
-  "version": "1.4",
+  "version": "1.5",
 
   "name": "Overworld Piglins",
   "description": "Makes Piglins and Hoglins be able to survive in the overworld, unless they've got the Weakness effect.",
@@ -26,7 +26,7 @@
     "fabric": "*",
     "minecraft": ">=1.20",
     "java": ">=21",
-    "collective": ">=7.54"
+    "collective": ">=7.78"
   },
 
   "custom": {
@@ -47,12 +47,9 @@
 	  " Alister",
 	  " Andrean Olgo",
 	  " aternosorg",
-	  " BirdieMiner",
 	  " Cherriesaurus",
-	  " Jack",
-	  " Jeremy Langford",
 	  " Michael W. S.",
-	  " pepe1191",
+	  " Nahuel Fernandez",
 	  " Shana Gitnick",
 	  " Tyler Behl"
   ]
