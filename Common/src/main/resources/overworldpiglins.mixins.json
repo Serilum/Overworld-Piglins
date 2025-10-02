@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.natamus.overworldpiglins.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AbstractPiglinMixin",
+    "HoglinMixin",
+    "LivingEntityMixin"
+  ],
+  "client": [
+  ],
+  "server": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
