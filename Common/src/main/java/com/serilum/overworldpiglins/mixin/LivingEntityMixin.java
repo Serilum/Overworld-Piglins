@@ -1,4 +1,4 @@
-package com.natamus.overworldpiglins.mixin;
+package com.serilum.overworldpiglins.mixin;
 
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.world.damagesource.DamageSource;

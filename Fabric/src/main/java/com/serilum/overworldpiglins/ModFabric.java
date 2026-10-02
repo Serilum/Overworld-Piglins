@@ -1,8 +1,8 @@
-package com.natamus.overworldpiglins;
+package com.serilum.overworldpiglins;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.overworldpiglins.util.Reference;
+import com.serilum.overworldpiglins.util.Reference;
 import net.fabricmc.api.ModInitializer;
 
 public class ModFabric implements ModInitializer {
