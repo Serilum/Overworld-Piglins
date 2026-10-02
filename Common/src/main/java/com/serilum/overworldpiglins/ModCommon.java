@@ -1,4 +1,4 @@
-package com.natamus.overworldpiglins;
+package com.serilum.overworldpiglins;
 
 public class ModCommon {
 
